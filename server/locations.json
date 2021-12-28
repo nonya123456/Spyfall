@@ -1,0 +1,13 @@
+[{
+        "location": "Airplane",
+        "roles": ["First Class Passenger", "Air Marshall", "Mechanic", "Economy Class Passenger", "Stewardess", "Co-Pilot", "Captain"]
+    },
+    {
+        "location": "Casino",
+        "roles": ["Bartender", "Head Security Guard", "Manager", "Bouncer", "Hustler", "Dealer", "Gambler"]
+    },
+    {
+        "location": "School",
+        "roles": ["Gym Teacher", "Student", "Principal", "Security Guard", "Janitor", "Lunch Lady", "Maintenance Man"]
+    }
+]
